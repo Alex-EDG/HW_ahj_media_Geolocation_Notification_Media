@@ -1,7 +1,7 @@
 # Домашнее задание к занятию "10. Geolocation, Notification, Media"
 
 
-[![Build status](https://ci.appveyor.com/api/projects/status/4qp55ow0mxs085u0?svg=true)](https://ci.appveyor.com/project/Alex-EDG/hw-ahj-media-geolocation-notification-media)
+[![Build status](https://ci.appveyor.com/api/projects/status/fn4thwwmjmrgrrml?svg=true)](https://ci.appveyor.com/project/Alex-EDG/hw-ahj-media-geolocation-notification-media)
 
 
 [[Github Pages](https://github.com/Alex-EDG/HW_ahj_media_Geolocation_Notification_Media)]
